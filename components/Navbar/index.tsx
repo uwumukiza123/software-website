@@ -10,7 +10,7 @@ const Navbar = () => {
         height={83}
       />
       <div>
-        <ul className="flex gap-10">
+        <ul className="flex gap-10 text-black">
           <li>How to start</li>
           <li>Services</li>
           <li>Technologies</li>
